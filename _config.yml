@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Shahid Lab"
+title                    : "Pratheek Pandesha"
 title_separator          : "|"
-subtitle                 : "Interspecies RNAi · Parasitic plants · Epigenetics · Transposons " # site tagline that appears below site title in masthead
-name                     : "Saima Shahid"
-description              : "Laboratory of Saima Shahid at the University of Sheffield"
+subtitle                 : "Transposons · Epigenetics · Genome engineering " # site tagline that appears below site title in masthead
+name                     : "Pratheek Pandesha"
+description              : "Pratheek's world"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 #author:
-  name             : "Saima Shahid"
+  name             : "Pratheek Pandesha"
   avatar           : "/assets/images/"
 #  bio              : ""
 #  location         : ""
@@ -109,7 +109,7 @@ analytics:
 #  links:
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:p.h.pandesha@wustl.edu"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -131,7 +131,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/psaima"
+      url: "https://twitter.com/HPratheek"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
