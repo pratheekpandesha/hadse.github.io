@@ -3,11 +3,11 @@ layout: splash
 hidden: true
 permalink: /
 header:
-  image: /assets/images/profile.jpg
+  image: /assets/images/banner.jpeg
 feature_row:
-  - image_path: /assets/images/Spring 2022.jpg
+  - image_path: /assets/images/profile.jpeg
     alt: "lab photo"
-    title: "Welcome to the Shahid Lab @ University of Sheffield"
+    title: "Welcome to Pratheek's World"
     excerpt: "We study interspecies RNA communication and epigenetic memory in parasitic plants and beyond. Our goal is to further the fundamental understanding of how mobile small RNAs influence host-parasite/symbiont interactions, and develop RNA-based solutions for improved parasite resistance in crops. See our [research](/research/) and [publications](/publications/) to learn more about what we do, and meet [lab members](/team/)!
 
 
