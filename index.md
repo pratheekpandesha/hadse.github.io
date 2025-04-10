@@ -8,10 +8,9 @@ feature_row:
   - image_path: /assets/images/profile.jpeg
     alt: "lab photo"
     title: "Pratheek Hadse Pandesha"
-    excerpt: "We study interspecies RNA communication and epigenetic memory in parasitic plants and beyond. Our goal is to further the fundamental understanding of how mobile small RNAs influence host-parasite/symbiont interactions, and develop RNA-based solutions for improved parasite resistance in crops. See our [research](/research/) and [publications](/publications/) to learn more about what we do, and meet [lab members](/team/)!
+    excerpt: " Hi there! I'm a PhD cadidate at the  [Division of Biology and Biomedical Sciences](https://dbbs.wustl.edu)  at the Washington University in St. Louis. I work on plant epigenetics and RNAi in the Slotkin lab at the Donald Danforth Plant Science Center. 
 
-
-    We are located in the Alfred Denny building at the [University of Sheffield](https://www.sheffield.ac.uk/). We are members of the [Plants, Photosynthesis and Soil Cluster](https://www.sheffield.ac.uk/biosciences/research/areas/plants-photosynthesis-and-soil) and the [Sheffield Institute for Nucleic Acids](https://sites.google.com/sheffield.ac.uk/sinfonia/home?pli=1). Feel free to reach out if you are interested in [joining the lab](/join/) or collaborating on research projects."
+THIS WEBSITE IS UNDER CONSTRUCTION- I'm messing arround- please stay tuned for the final version
 
 ---
 # Welcome to Pratheek's World
