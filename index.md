@@ -14,4 +14,7 @@ feature_row:
     We are located in the Alfred Denny building at the [University of Sheffield](https://www.sheffield.ac.uk/). We are members of the [Plants, Photosynthesis and Soil Cluster](https://www.sheffield.ac.uk/biosciences/research/areas/plants-photosynthesis-and-soil) and the [Sheffield Institute for Nucleic Acids](https://sites.google.com/sheffield.ac.uk/sinfonia/home?pli=1). Feel free to reach out if you are interested in [joining the lab](/join/) or collaborating on research projects."
 ---
 # Welcome to Pratheek's World
-{: style="text-align: center; letter-spacing: 0.25em; font-family: 'Playfair Display', Cormorant Garamond;"}
+{: style="text-align: center;
+  letter-spacing: 0.25em;"}
+
+{% include feature_row type="left" %}
