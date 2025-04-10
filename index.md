@@ -3,7 +3,7 @@ layout: splash
 hidden: true
 permalink: /
 header:
-  image: /assets/images/banner.jpeg
+  image: /assets/images/banner2.jpeg
 feature_row:
   - image_path: /assets/images/profile.jpeg
     alt: "lab photo"
