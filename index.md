@@ -3,7 +3,7 @@ layout: splash
 hidden: true
 permalink: /
 header:
-  image: /assets/images/ath3.jpg
+  image: /assets/images/profile.jpg
 feature_row:
   - image_path: /assets/images/Spring 2022.jpg
     alt: "lab photo"
