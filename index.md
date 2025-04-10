@@ -15,6 +15,6 @@ feature_row:
 ---
 # Welcome to Pratheek's World
 {: style="text-align: center;
-  letter-spacing: 0.25em;"}
+  letter-spacing: 0.1em;"}
 
 {% include feature_row type="left" %}
