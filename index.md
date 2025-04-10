@@ -13,7 +13,6 @@ excerpt: "We study interspecies RNA communication and epigenetic memory in paras
 
     We are located in the Alfred Denny building at the [University of Sheffield](https://www.sheffield.ac.uk/). We are members of the [Plants, Photosynthesis and Soil Cluster](https://www.sheffield.ac.uk/biosciences/research/areas/plants-photosynthesis-and-soil) and the [Sheffield Institute for Nucleic Acids](https://sites.google.com/sheffield.ac.uk/sinfonia/home?pli=1). Feel free to reach out if you are interested in [joining the lab](/join/) or collaborating on research projects."
 <h2  style="margin-top: 0">Principal Investigator</h2>
-
 [![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Saima Shahid.jpg)](){: .align-left}  
 ### **Dr Saima Shahid**
 
